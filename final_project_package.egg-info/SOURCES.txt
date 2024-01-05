@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+final_project_package.egg-info/PKG-INFO
+final_project_package.egg-info/SOURCES.txt
+final_project_package.egg-info/dependency_links.txt
+final_project_package.egg-info/entry_points.txt
+final_project_package.egg-info/top_level.txt
+tests/__init__.py
+tests/test_main_module.py

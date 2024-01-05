@@ -1,0 +1,2 @@
+[console_scripts]
+final_project = final_project_package.main_module:main
